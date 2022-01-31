@@ -60,7 +60,7 @@ header {
 }
 
 .left-header-side img {
-  width: 95px;
+  width: 82.5px;
   margin-top: 2px;
 }
 
@@ -88,6 +88,7 @@ header {
 
 .mobile-header-menu {
   position: relative;
+  margin-top: 2px;
 }
 
 .mobile-menu-list {
@@ -308,6 +309,7 @@ body .showMenu {
 
 .home-part-with-image-g img {
   width: 100%;
+  margin-top: 25px;
 }
 
 .social-list li:last-child {
@@ -315,10 +317,9 @@ body .showMenu {
 }
 
 .how-it-works-card {
-  background: #6080a8;
-  box-shadow: 5px 4px 31px rgba(0, 0, 0, 0.21);
+  border: 0.405405px solid #ffffff7a;
   border-radius: 16px;
-  margin-bottom: 24px;
+  margin-bottom: 30px;
 }
 
 .how-it-works-card:nth-child(3) {
@@ -326,17 +327,17 @@ body .showMenu {
 }
 
 .launch-to-invest-wrapper {
-  margin-top: 76px;
+  margin-top: 60px;
   background: #6080a8;
   box-shadow: 5px 4px 31px rgba(0, 0, 0, 0.21);
   border-radius: 16px;
-  margin-bottom: 16px;
+  margin-bottom: 32px;
   text-align: center;
   padding: 50px;
 }
 
 .how-it-works-title {
-  padding-bottom: 28px;
+  padding-bottom: 60px;
 }
 
 .how-works-card-text-cut {
@@ -631,11 +632,11 @@ body ul .first-3-social-blocks img {
   .content-in-how-works {
     padding-top: 120px;
     padding-bottom: 120px;
-    max-width: 480px;
+    max-width: 375px;
   }
 
   .collaboration-in-flex {
-    flex: 0.3;
+    flex: 0.334;
     text-align: center;
     display: flex;
     flex-direction: column;
@@ -651,7 +652,7 @@ body ul .first-3-social-blocks img {
   }
 
   .collaboration-title p {
-    font-size: 42px;
+    font-size: 40px;
   }
 
   .power-by-title {
@@ -669,7 +670,7 @@ body ul .first-3-social-blocks img {
 
 .before-footer-section,
 .section-how-it-works {
-  max-width: 1392px;
+  max-width: 960px;
   margin: 0 auto;
 }
 
@@ -846,6 +847,6 @@ body ul .first-3-social-blocks img {
 
 @media screen and (min-width: 1440px) {
   header .desktop-header-menu ul li {
-    margin-right: 110px;
+    margin-right: 65px;
   }
 }
