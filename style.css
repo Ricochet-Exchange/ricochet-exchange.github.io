@@ -455,7 +455,7 @@ body .showMenu {
 
 .collaboration-in-flex img {
   width: 100%;
-  max-width: 260px;
+  max-width: 150px;
   display: flex;
   flex-direction: column;
   min-width: 150px;
