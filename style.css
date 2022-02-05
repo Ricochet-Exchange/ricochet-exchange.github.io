@@ -1,6 +1,6 @@
 html * {
   font-family: "Montserrat", sans-serif;
-  color: #fff;
+  color: #ecf4f9;
 }
 body {
   margin: 0;
@@ -9,11 +9,11 @@ body {
   padding: 20px;
 }
 ::placeholder {
-  color: #fff;
+  color: #ecf4f9;
   opacity: 1;
 }
 ::-ms-input-placeholder {
-  color: #fff;
+  color: #ecf4f9;
 }
 button:hover {
   cursor: pointer;
@@ -60,7 +60,7 @@ header {
 }
 
 .left-header-side img {
-  width: 95px;
+  width: 82.5px;
   margin-top: 2px;
 }
 
@@ -83,7 +83,7 @@ header {
   font-weight: 500;
   font-size: 16px;
   line-height: 21px;
-  color: #fff;
+  color: #ecf4f9;
 }
 
 .mobile-header-menu {
@@ -120,7 +120,7 @@ header {
   font-weight: 500;
   font-size: 16px;
   line-height: 21px;
-  color: #fff;
+  color: #ecf4f9;
 }
 
 .close-menu-btn {
@@ -154,7 +154,7 @@ header {
   font-weight: bold;
   font-size: 70px;
   line-height: 80px;
-  color: #fff;
+  color: #ecf4f9;
   margin-bottom: 12px;
 }
 
@@ -163,7 +163,7 @@ header {
   font-weight: normal;
   font-size: 16px;
   line-height: 24px;
-  color: #fff;
+  color: #ecf4f9;
   padding-bottom: 24px;
 }
 
@@ -190,7 +190,7 @@ body .showMenu {
 }
 
 .social-list li {
-  border: 1px solid #fff;
+  border: 1px solid #ecf4f9;
   border-radius: 50%;
   text-align: center;
   width: 32px;
@@ -208,6 +208,7 @@ body .showMenu {
   font-size: 50px;
   line-height: 60px;
   text-align: center;
+  margin-top: 10px;
 }
 
 .top-stats-block {
@@ -220,7 +221,7 @@ body .showMenu {
   font-size: 50px;
   line-height: 60px;
   text-align: center;
-  color: #ffffff;
+  color: #ecf4f9;
 }
 
 .stat-info-p {
@@ -236,7 +237,7 @@ body .showMenu {
   font-size: 16px;
   line-height: 24px;
   text-align: center;
-  color: #ffffff;
+  color: #ecf4f9;
   padding-bottom: 5px;
   border-bottom: 0.405405px solid #ffffff7a;
 }
@@ -247,7 +248,7 @@ body .showMenu {
   font-size: 34px;
   line-height: 56px;
   text-align: center;
-  color: #ffffff;
+  color: #ecf4f9;
 }
 
 .put-power-title {
@@ -285,7 +286,7 @@ body .showMenu {
   font-size: 28px;
   line-height: 32px;
   text-align: center;
-  color: #ffffff;
+  color: #ecf4f9;
 }
 
 .put-power-list span {
@@ -308,6 +309,8 @@ body .showMenu {
 
 .home-part-with-image-g img {
   width: 100%;
+  margin-top:50px;
+  margin-left:25px;
 }
 
 .social-list li:last-child {
@@ -318,7 +321,7 @@ body .showMenu {
   background: #6080a8;
   box-shadow: 5px 4px 31px rgba(0, 0, 0, 0.21);
   border-radius: 16px;
-  margin-bottom: 24px;
+  margin-bottom: 50px;
 }
 
 .how-it-works-card:nth-child(3) {
@@ -336,7 +339,7 @@ body .showMenu {
 }
 
 .how-it-works-title {
-  padding-bottom: 28px;
+  padding-bottom: 60px;
 }
 
 .how-works-card-text-cut {
@@ -348,7 +351,7 @@ body .showMenu {
   font-weight: bold;
   font-size: 16px;
   line-height: 24px;
-  color: #ffffff;
+  color: #ecf4f9;
   margin-bottom: 6px;
 }
 
@@ -397,7 +400,7 @@ body .showMenu {
   font-size: 42px;
   line-height: 1.5;
   text-align: center;
-  color: #ffffff;
+  color: #ecf4f9;
 }
 
 .launch-link-card-btn {
@@ -405,7 +408,7 @@ body .showMenu {
 }
 
 .launch-link-card-btn a {
-  background: #ffffff;
+  background: #ecf4f9;
   border-radius: 16px;
   font-style: normal;
   font-weight: bold;
@@ -425,7 +428,7 @@ body .showMenu {
   font-size: 16px;
   letter-spacing: 0.25px;
   text-decoration-line: underline;
-  color: #ffffff;
+  color: #ecf4f9;
 }
 
 .collaboration-title {
@@ -438,7 +441,7 @@ body .showMenu {
   font-size: 24px;
   line-height: 30px;
   text-align: center;
-  color: #ffffff;
+  color: #ecf4f9;
 }
 
 .collaboration-flex {
@@ -467,7 +470,7 @@ body .showMenu {
   font-size: 24px;
   line-height: 1;
   text-align: center;
-  color: #ffffff;
+  color: #ecf4f9;
   margin-top: 10px;
 }
 
@@ -488,7 +491,7 @@ body .showMenu {
 }
 
 .bottom-social-foot ul li {
-  border: 1px solid #fff;
+  border: 1px solid #ecf4f9;
   border-radius: 50%;
   width: 32px;
   height: 32px;
@@ -538,7 +541,7 @@ body ul .first-3-social-blocks img {
   font-style: normal;
   font-weight: bold;
   font-size: 16px;
-  color: #ffffff;
+  color: #ecf4f9;
 }
 
 .in-right-foot-flex-lists ul {
@@ -565,7 +568,7 @@ body ul .first-3-social-blocks img {
   font-style: normal;
   font-weight: bold;
   font-size: 32px;
-  color: #ffffff;
+  color: #ecf4f9;
   padding-bottom: 8px;
 }
 
@@ -573,7 +576,7 @@ body ul .first-3-social-blocks img {
   font-style: normal;
   font-weight: bold;
   font-size: 22px;
-  color: #ffffff;
+  color: #ecf4f9;
   padding-bottom: 5px;
 }
 
@@ -790,7 +793,7 @@ body ul .first-3-social-blocks img {
     font-size: 16px;
     line-height: 20px;
     letter-spacing: 0.25px;
-    color: #ffffff;
+    color: #ecf4f9;
   }
 
   .collaboration-title {
