@@ -265,13 +265,13 @@ body .showMenu {
 
 .put-power-info-list-wraper {
   display: flex;
-  padding-top: 60px;
+  padding-top: 30px;
   padding-bottom: 96px;
 }
 
 .put-power-list {
   flex: 1;
-  padding: 28px 16px 48px;
+  padding: 15px 16px;
   text-align: center;
   border: 0.405405px solid #ffffff7a;
   box-sizing: border-box;
@@ -292,9 +292,8 @@ body .showMenu {
   font-style: normal;
   font-weight: 300;
   font-size: 16px;
-  line-height: 24px;
+  line-height: 20px;
   text-align: center;
-  letter-spacing: 0.25px;
   color: #dfdfdfdf;
 }
 
@@ -600,15 +599,15 @@ body ul .first-3-social-blocks img {
 }
 
 .in-put-power-list-block img {
-  width: 75%;
+  width: 60%;
 }
 
 .streaming-img {
-  padding: 74px 0;
+  padding: 59px 0;
 }
 
 .responsible-img {
-  padding-bottom: 31px;
+  padding-bottom: 24px;
 }
 
 .mobile-visible {
@@ -660,6 +659,10 @@ body ul .first-3-social-blocks img {
 
   .collaboration-title {
     padding-bottom: 30px;
+  }
+
+  .home-part-with-image-g img {
+    margin-top: 50px;
   }
 }
 
