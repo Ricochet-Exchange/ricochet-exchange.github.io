@@ -94,7 +94,7 @@ header {
   background-color: #6785ab;
   padding: 20px;
   border: 1px solid #6080a8;
-  position: absolute;
+  position: fixed;
   top: 20px;
   right: 20px;
   z-index: 99;
@@ -103,7 +103,7 @@ header {
 }
 
 .mobile-menu-list ul {
-  padding-top: 40px;
+  padding-top: 46px;
 }
 
 .mobile-menu-list ul li {
@@ -851,4 +851,37 @@ body ul .first-3-social-blocks img {
   header .desktop-header-menu ul li {
     margin-right: 110px;
   }
+}
+
+.hamburger .line{
+  width: 50px;
+  height: 5px;
+  background-color: #ecf0f1;
+  display: block;
+  margin: 8px auto;
+  -webkit-transition: all 0.3s ease-in-out;
+  -o-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+}
+
+.hamburger:hover{
+  cursor: pointer;
+}
+
+#hamburger-ref.is-active .line:nth-child(2){
+  opacity: 0;
+}
+
+#hamburger-ref.is-active .line:nth-child(1){
+  -webkit-transform: translateY(13px) rotate(45deg);
+  -ms-transform: translateY(13px) rotate(45deg);
+  -o-transform: translateY(13px) rotate(45deg);
+  transform: translateY(13px) rotate(45deg);
+}
+
+#hamburger-ref.is-active .line:nth-child(3){
+  -webkit-transform: translateY(-13px) rotate(-45deg);
+  -ms-transform: translateY(-13px) rotate(-45deg);
+  -o-transform: translateY(-13px) rotate(-45deg);
+  transform: translateY(-13px) rotate(-45deg);
 }
