@@ -1,2 +1,2 @@
-# ricochet-landing
+# [Deprecated]
 Ricochet Landing Page
